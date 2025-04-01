@@ -1,7 +1,7 @@
 
 # Doggo Run
 ## A description of your game.
-DoggoRun is a 2D platformer. As Doggo avoid enemies, traverse obstacles to collect coinds to acquire the key to win.
+DoggoRun is a 2D platformer. As Doggo avoid enemies, traverse obstacles to collect coins to acquire the key to unlock the door and win!
 
 ## The group members and their contributions.
 Team Name: Undetermied

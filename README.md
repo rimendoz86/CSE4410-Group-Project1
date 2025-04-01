@@ -31,3 +31,4 @@ Team Name: Undetermied
 ## Attributions to any third-party assets you had used.****
 - Sunny Land by Ansimuz (https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
 - Sound Effects - Open Game Art - Various (https://opengameart.org)
+- Additional 2d Assets - Open Game Art - Heart/Key/Door (https://opengameart.org)
